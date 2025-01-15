@@ -31,7 +31,7 @@ npm install
 # BUILDING THE APP FOR PRODUCTION
 # =========================================
 # Below command is used to build the code which can be served by the webserver (Nginx)
-cd /home/ec2-user/web-tier
+cd /home/ec2-user/AWS_Project1/application-code/web-tier
 npm run build
 
 # =========================================
